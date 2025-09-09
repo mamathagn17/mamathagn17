@@ -31,10 +31,8 @@ I am passionate about building scalable software, exploring new technologies, an
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/mamatha-n-50b817258/)  
+- 💼 [Mamatha-n](https://www.linkedin.com/in/mamatha-n-50b817258/)  
 - 📫 **Email:** mamathagn1703@gmail.com  
-- 📝 [Portfolio/Blog (optional)]()  
-
 ---
 
 ✨ *“Keep learning, keep building and keep Exploring— growth is a continuous journey.”*
