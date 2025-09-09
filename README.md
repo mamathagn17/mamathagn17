@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there 👋 I'm Mamtha N  
 
-<!--
-**mamathagn17/mamathagn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | C++ | Python | Web Development Enthusiast**  
 
-Here are some ideas to get you started:
+I am passionate about building scalable software, exploring new technologies, and constantly improving myself with the **Kaizen rule** (continuous learning & growth).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🔭 Currently working as a **Software Engineer**  
+- 🌱 Learning & exploring **modern C++**, **Python**, and **Web Technologies** (HTML, CSS, JS)  
+- 💡 Curious about **Cloud (AWS)**, **Networking**, and **System Design**  
+- 🎯 Goal: To contribute to impactful projects & grow as a full-stack problem solver  
+- ⚡ Fun fact: I believe in *Kaizen* — small consistent steps bring big results  
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** C++, Python, JavaScript, HTML, CSS  
+- **Frameworks & Tools:** GTKmm, Flask, React (beginner), Git/GitHub  
+- **Databases:** MySQL, SQLite  
+- **Other Interests:** Cloud (AWS), Cybersecurity, AI/ML basics  
+
+---
+
+### 📈 GitHub Stats
+![Mamtha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamathagn17&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamathagn17&layout=compact&theme=radical)  
+
+---
+
+### 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 📫 **Email:** mamathagn1703@gmail.com  
+- 📝 [Portfolio/Blog (optional)]()  
+
+---
+
+✨ *“Keep learning, keep building — growth is a continuous journey.”*
