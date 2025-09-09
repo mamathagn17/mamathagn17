@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mamtha N  
+## Hi there 👋 I'm Mamatha N  
 
 💻 **Software Engineer | C++ | Python | Web Development Enthusiast**  
 
@@ -31,7 +31,7 @@ I am passionate about building scalable software, exploring new technologies, an
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mamatha-n-50b817258/)  
 - 📫 **Email:** mamathagn1703@gmail.com  
 - 📝 [Portfolio/Blog (optional)]()  
 
