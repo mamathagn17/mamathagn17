@@ -37,4 +37,4 @@ I am passionate about building scalable software, exploring new technologies, an
 
 ---
 
-✨ *“Keep learning, keep building — growth is a continuous journey.”*
+✨ *“Keep learning, keep building and keep Exploring— growth is a continuous journey.”*
